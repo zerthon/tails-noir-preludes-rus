@@ -1162,8 +1162,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -48.0,
-                "Y": 768.0
+                "X": -48,
+                "Y": 768
               }
             }
           ]
@@ -1461,7 +1461,7 @@
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
                 "X": "+0",
-                "Y": 200.0
+                "Y": 200
               }
             }
           ]
@@ -1564,7 +1564,7 @@
                   "Flags": "Immutable",
                   "HistoryType": "Base",
                   "Namespace": "DlgSystem",
-                  "CultureInvariantString": "Next",
+                  "CultureInvariantString": "Далее",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -1636,7 +1636,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "[The two beds are about the same size, but you can tell the mattress is somewhat indented on the top bunk. The lower one is flat, but seems slightly thinner.]",
+          "CultureInvariantString": "[Две кровати примерно одинакового размера, но видно, что матрас на верхней полке слегка продавлен. Нижний — ровный, но кажется чуть тоньше.]",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -1682,8 +1682,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -96.0,
-                "Y": 352.0
+                "X": -96,
+                "Y": 352
               }
             }
           ]
@@ -1795,7 +1795,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "[Pick the top bunk]",
+                  "CultureInvariantString": "[Выбрать верхнюю полку]",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -1888,7 +1888,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "[Pick the bottom bunk]",
+                  "CultureInvariantString": "[Выбрать нижнюю полку]",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -1960,7 +1960,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "[You gather your strength and heave the box on top of the upper bunk, as a cascade of springs respond with a metallic squeal.]",
+          "CultureInvariantString": "[Вы собираетесь с силами и взгромождаете коробку на верхнюю полку, в ответ раздаётся каскад пружин с металлическим скрипом.]",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -2006,8 +2006,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -336.0,
-                "Y": 608.0
+                "X": -336,
+                "Y": 608
               }
             }
           ]
@@ -2310,7 +2310,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "[Leave]",
+                  "CultureInvariantString": "[Уйти]",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -2382,7 +2382,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "[You comfortably begin to shuffle your possessions onto the lower mattress, which in turns cushions their weight gently.]",
+          "CultureInvariantString": "[Вы удобно начинаете раскладывать свои вещи на нижнем матрасе, который мягко амортизирует их вес.]",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -2428,8 +2428,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 160.0,
-                "Y": 576.0
+                "X": 160,
+                "Y": 576
               }
             }
           ]
@@ -2732,7 +2732,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "[Leave]",
+                  "CultureInvariantString": "[Уйти]",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,

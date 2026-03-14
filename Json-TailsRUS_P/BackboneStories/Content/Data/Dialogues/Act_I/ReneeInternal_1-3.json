@@ -1629,8 +1629,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 496.0,
-                "Y": 2080.0
+                "X": 496,
+                "Y": 2080
               }
             }
           ]
@@ -1727,8 +1727,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -400.0,
-                "Y": 784.0
+                "X": -400,
+                "Y": 784
               }
             }
           ]
@@ -1929,8 +1929,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -128.0,
-                "Y": 1216.0
+                "X": -128,
+                "Y": 1216
               }
             }
           ]
@@ -2131,8 +2131,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 128.0,
-                "Y": 1248.0
+                "X": 128,
+                "Y": 1248
               }
             }
           ]
@@ -2333,8 +2333,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -16.0,
-                "Y": 1600.0
+                "X": -16,
+                "Y": 1600
               }
             }
           ]
@@ -2535,8 +2535,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 240.0,
-                "Y": 1680.0
+                "X": 240,
+                "Y": 1680
               }
             }
           ]
@@ -2737,8 +2737,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -352.0,
-                "Y": 1040.0
+                "X": -352,
+                "Y": 1040
               }
             }
           ]
@@ -2939,8 +2939,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -240.0,
-                "Y": 880.0
+                "X": -240,
+                "Y": 880
               }
             }
           ]
@@ -3141,8 +3141,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -144.0,
-                "Y": 1072.0
+                "X": -144,
+                "Y": 1072
               }
             }
           ]
@@ -3249,7 +3249,7 @@
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
                 "X": "+0",
-                "Y": 200.0
+                "Y": 200
               }
             }
           ]
@@ -3352,7 +3352,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Next",
+                  "CultureInvariantString": "Далее",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -3424,7 +3424,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Cassius Perth, Minister of Science, announced today that he would be stepping down from his position after 15 years of service. In a press release, he stated that he was satisfied with the work he had done in the past few years, and was looking forward to his retirement.",
+          "CultureInvariantString": "Кассиус Перт, министр науки, объявил сегодня, что уходит со своего поста после 15 лет службы. В пресс-релизе он заявил, что доволен работой, проделанной за последние годы, и с нетерпением ждёт выхода на пенсию.",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -3470,8 +3470,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 16.0,
-                "Y": 592.0
+                "X": 16,
+                "Y": 592
               }
             }
           ]
@@ -3583,7 +3583,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I bet he was. Ministry retirement plans are through the roof, as far as I know.",
+                  "CultureInvariantString": "Держу пари, так и есть. Пенсионные планы министерства, насколько я знаю, просто заоблачные.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -3676,7 +3676,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Perfect. Time for a change of careers, Renee.",
+                  "CultureInvariantString": "Идеально. Время сменить карьеру, Рене.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -3769,7 +3769,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "[Keep listening]",
+                  "CultureInvariantString": "[Продолжать слушать]",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -3841,7 +3841,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "A successor is currently being chosen, and a press release from the headquarters of the ministry, Science City, stated that a suitable candidate would be announced within the next week.",
+          "CultureInvariantString": "Преемник в настоящее время выбирается, и в пресс-релизе из штаб-квартиры министерства, Научного города, сообщается, что подходящий кандидат будет объявлен в течение следующей недели.",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -3887,8 +3887,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 64.0,
-                "Y": 848.0
+                "X": 64,
+                "Y": 848
               }
             }
           ]
@@ -4000,7 +4000,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "\"...And local journalist, Renee Wilson, seems like the best candidate. We can't wait to offer her a ludicrous salary.\"",
+                  "CultureInvariantString": "\"...И местная журналистка, Рене Уилсон, кажется лучшим кандидатом. Мы с нетерпением ждём, чтобы предложить ей невероятную зарплату.\"",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -4093,7 +4093,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Taking a wild guess that it's going to be Perth's brother, or something.",
+                  "CultureInvariantString": "Сделаю смелое предположение, что это будет брат Перта или что-то в этом роде.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -4186,7 +4186,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "[Keep listening]",
+                  "CultureInvariantString": "[Продолжать слушать]",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -4258,7 +4258,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "...That was, of course, \"Stepping High\" by Brovo - this marking their tenth consecutive week at the top of the charts. Stellar stuff. Now, before this DJ signs off for the day, it's time for today's stories.",
+          "CultureInvariantString": "...Это была, конечно же, песня \"Stepping High\" от Brovo — они уже десятую неделю подряд возглавляют чарты. Потрясающе. Теперь, прежде чем этот диджей завершит свой день, время для сегодняшних новостей.",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -4304,8 +4304,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -48.0,
-                "Y": 352.0
+                "X": -48,
+                "Y": 352
               }
             }
           ]
@@ -4417,7 +4417,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "[Keep listening]",
+                  "CultureInvariantString": "[Продолжать слушать]",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -4489,7 +4489,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "In other news, locals in West End are still reeling from the fire that ravaged an entire tenement block last week.",
+          "CultureInvariantString": "В других новостях, жители Вест-Энда всё ещё приходят в себя после пожара, который уничтожил целый жилой квартал на прошлой неделе.",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -4535,8 +4535,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 128.0,
-                "Y": 1072.0
+                "X": 128,
+                "Y": 1072
               }
             }
           ]
@@ -4648,7 +4648,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "...Shit. Had to remind me, huh?",
+                  "CultureInvariantString": "...Чёрт. Надо было мне напомнить, да?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -4741,7 +4741,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "...Ravaged is right - I went there. There was nothing left but rubble.",
+                  "CultureInvariantString": "...Уничтожил — это точно. Я был там. От здания остались только руины.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -4834,7 +4834,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "[Keep listening]",
+                  "CultureInvariantString": "[Продолжать слушать]",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -4906,7 +4906,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "The fire, which claimed a number of lives, has been reported as an unfortunate accident as result of a gas leak. The Police Department has since stated that they will be investigating other at-risk buildings in the area for similar issues, and are asking citizens to cooperate.",
+          "CultureInvariantString": "Пожар, унёсший несколько жизней, был признан несчастным случаем из-за утечки газа. Полицейский департамент заявил, что проведёт проверку других зданий в районе на предмет подобных проблем, и призывает граждан к сотрудничеству.",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -4952,8 +4952,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 304.0,
-                "Y": 1344.0
+                "X": 304,
+                "Y": 1344
               }
             }
           ]
@@ -5065,7 +5065,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "...And my editor keeps asking me to finish the article on it.",
+                  "CultureInvariantString": "...А мой редактор продолжает требовать, чтобы я закончил статью об этом.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -5158,7 +5158,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "...Nothing new, then. I'll have to go over my files again.",
+                  "CultureInvariantString": "...Ничего нового, значит. Придётся снова пересмотреть свои записи.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -5251,7 +5251,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "[Keep listening]",
+                  "CultureInvariantString": "[Продолжать слушать]",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -5323,7 +5323,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Our thoughts and prayers are with the unfortunate souls lost in the fire. That's all for today - this has been Mid-Days With Madison, and next up is Gus And The Steelers, with \"Old Blue.\"",
+          "CultureInvariantString": "Наши мысли и молитвы с несчастными душами, погибшими в пожаре. На сегодня это всё — вы слушали «Полдень с Мэдисон», а впереди у вас Гас и The Steelers с песней \"Old Blue.\"",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -5369,8 +5369,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 528.0,
-                "Y": 1712.0
+                "X": 528,
+                "Y": 1712
               }
             }
           ]
@@ -5482,7 +5482,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "[Turn off the radio]",
+                  "CultureInvariantString": "[Выключить радио]",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,

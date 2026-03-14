@@ -219,7 +219,7 @@
               },
               {
                 "$type": "UAssetAPI.PropertyTypes.Objects.DoublePropertyData, UAssetAPI",
-                "Value": 1.0,
+                "Value": 1,
                 "Name": "Parameters",
                 "ArrayIndex": 0,
                 "IsZero": false,
@@ -287,7 +287,7 @@
               },
               {
                 "$type": "UAssetAPI.PropertyTypes.Objects.DoublePropertyData, UAssetAPI",
-                "Value": 1.0,
+                "Value": 1,
                 "Name": "Parameters",
                 "ArrayIndex": 0,
                 "IsZero": false,
@@ -355,7 +355,7 @@
               },
               {
                 "$type": "UAssetAPI.PropertyTypes.Objects.DoublePropertyData, UAssetAPI",
-                "Value": 1.0,
+                "Value": 1,
                 "Name": "Parameters",
                 "ArrayIndex": 0,
                 "IsZero": false,
@@ -423,7 +423,7 @@
               },
               {
                 "$type": "UAssetAPI.PropertyTypes.Objects.DoublePropertyData, UAssetAPI",
-                "Value": 1.0,
+                "Value": 1,
                 "Name": "Parameters",
                 "ArrayIndex": 0,
                 "IsZero": false,
@@ -6889,8 +6889,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 2720.0,
-                "Y": 2384.0
+                "X": 2720,
+                "Y": 2384
               }
             }
           ]
@@ -6987,8 +6987,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -1296.0,
-                "Y": 416.0
+                "X": -1296,
+                "Y": 416
               }
             }
           ]
@@ -7085,8 +7085,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -578.0,
-                "Y": 474.0
+                "X": -578,
+                "Y": 474
               }
             }
           ]
@@ -7183,8 +7183,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -825.0,
-                "Y": 621.0
+                "X": -825,
+                "Y": 621
               }
             }
           ]
@@ -7281,8 +7281,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -1824.0,
-                "Y": 592.0
+                "X": -1824,
+                "Y": 592
               }
             }
           ]
@@ -7379,8 +7379,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -1664.0,
-                "Y": 656.0
+                "X": -1664,
+                "Y": 656
               }
             }
           ]
@@ -7477,8 +7477,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -1440.0,
-                "Y": 658.0
+                "X": -1440,
+                "Y": 658
               }
             }
           ]
@@ -7575,8 +7575,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -2496.0,
-                "Y": 496.0
+                "X": -2496,
+                "Y": 496
               }
             }
           ]
@@ -7673,8 +7673,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -2272.0,
-                "Y": 496.0
+                "X": -2272,
+                "Y": 496
               }
             }
           ]
@@ -7771,8 +7771,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -2112.0,
-                "Y": 496.0
+                "X": -2112,
+                "Y": 496
               }
             }
           ]
@@ -7869,8 +7869,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 3120.0,
-                "Y": 2384.0
+                "X": 3120,
+                "Y": 2384
               }
             }
           ]
@@ -7967,8 +7967,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 4608.0,
-                "Y": 2720.0
+                "X": 4608,
+                "Y": 2720
               }
             }
           ]
@@ -8258,8 +8258,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 1856.0,
-                "Y": 2176.0
+                "X": 1856,
+                "Y": 2176
               }
             }
           ]
@@ -8356,8 +8356,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 832.0,
-                "Y": 1056.0
+                "X": 832,
+                "Y": 1056
               }
             }
           ]
@@ -8454,8 +8454,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 544.0,
-                "Y": 560.0
+                "X": 544,
+                "Y": 560
               }
             }
           ]
@@ -8552,8 +8552,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 256.0,
-                "Y": 1184.0
+                "X": 256,
+                "Y": 1184
               }
             }
           ]
@@ -8650,8 +8650,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -80.0,
-                "Y": 80.0
+                "X": -80,
+                "Y": 80
               }
             }
           ]
@@ -9233,8 +9233,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -32.0,
-                "Y": -240.0
+                "X": -32,
+                "Y": -240
               }
             }
           ]
@@ -9337,7 +9337,7 @@
                   "Flags": "Immutable",
                   "HistoryType": "Base",
                   "Namespace": "DlgSystem",
-                  "CultureInvariantString": "Next",
+                  "CultureInvariantString": "Далее",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -9409,7 +9409,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Possibly.",
+          "CultureInvariantString": "Возможно.",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -9455,8 +9455,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 3856.0,
-                "Y": 1728.0
+                "X": 3856,
+                "Y": 1728
               }
             }
           ]
@@ -9568,7 +9568,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "A camera?",
+                  "CultureInvariantString": "Камера?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -9661,7 +9661,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "A framed photograph?",
+                  "CultureInvariantString": "Фотография в рамке?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -9754,7 +9754,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "A mirror?",
+                  "CultureInvariantString": "Зеркало?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -9847,7 +9847,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "A window into someone's house?",
+                  "CultureInvariantString": "Окно в чей-то дом?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -9919,7 +9919,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Oh! Hey there! A fresh face! Are you here to study? You're new, right? I never forget a face!",
+          "CultureInvariantString": "О! Привет! Новое лицо! Ты здесь будешь учиться? Ты новенький, да? Я никогда не забываю лица!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -9965,8 +9965,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 1904.0,
-                "Y": 368.0
+                "X": 1904,
+                "Y": 368
               }
             }
           ]
@@ -10453,7 +10453,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Yeah, I'm new.",
+                  "CultureInvariantString": "Да, я новенький.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -10546,7 +10546,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I'm Howard. Nice to meet you.",
+                  "CultureInvariantString": "Я Говард. Приятно познакомиться.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -10639,7 +10639,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "...This box is kind of heavy. Could you tell me where my room is?",
+                  "CultureInvariantString": "...Эта коробка довольно тяжелая. Не подскажешь, где моя комната?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -10713,7 +10713,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Oh! Do they enjoy them? Oh, haha. No. No, not at all.",
+          "CultureInvariantString": "О! Им нравится? О, ха-ха. Нет. Нет, совсем нет.",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -10759,8 +10759,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -992.0,
-                "Y": 480.0
+                "X": -992,
+                "Y": 480
               }
             }
           ]
@@ -10872,7 +10872,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I'll see you around, man.",
+                  "CultureInvariantString": "Увидимся, чувак.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -10944,7 +10944,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Could be, could also not be.",
+          "CultureInvariantString": "Может быть, а может и нет.",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -10990,8 +10990,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 4704.0,
-                "Y": 1616.0
+                "X": 4704,
+                "Y": 1616
               }
             }
           ]
@@ -11103,7 +11103,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "So it's a thing, then.",
+                  "CultureInvariantString": "Значит, это что-то.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -11196,7 +11196,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "A kid?",
+                  "CultureInvariantString": "Ребенок?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -11289,7 +11289,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "A bad friend?",
+                  "CultureInvariantString": "Плохой друг?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -11382,7 +11382,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "An overly attached RA?",
+                  "CultureInvariantString": "Слишком привязчивый резидент-ассистент?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -11454,7 +11454,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Well hello there, \"new\"! I'm Wisconsin, your resident assistant - and potentially best friend!",
+          "CultureInvariantString": "Ну, привет, \"новенький\"! Я Висконсин, ваш резидент-ассистент — и потенциально лучший друг!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -11500,8 +11500,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 1600.0,
-                "Y": 512.0
+                "X": 1600,
+                "Y": 512
               }
             }
           ]
@@ -11613,7 +11613,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Hi, Wisconsin. I'm Howard Lotor.",
+                  "CultureInvariantString": "Привет, Висконсин. Я Говард Лотор.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -11706,7 +11706,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Right, well - see you around.",
+                  "CultureInvariantString": "Ладно, увидимся.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -11799,7 +11799,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Resident assistant?",
+                  "CultureInvariantString": "Резидент-ассистент?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -11871,7 +11871,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Well howdy Howard! It's so nice to meet you! I'm Wisconsin, and I'll be your resident assistant - and your best friend too, if you want one! Haha! Hah.",
+          "CultureInvariantString": "Ну, привет, Говард! Очень приятно познакомиться! Я Висконсин, и я буду твоим резидент-ассистентом — и твоим лучшим другом, если захочешь! Ха-ха! Хах.",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -11917,8 +11917,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 1920.0,
-                "Y": 528.0
+                "X": 1920,
+                "Y": 528
               }
             }
           ]
@@ -12221,7 +12221,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Right, well - see you around.",
+                  "CultureInvariantString": "Ладно, увидимся.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -12314,7 +12314,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Resident assistant?",
+                  "CultureInvariantString": "Резидент-ассистент?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -12407,7 +12407,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "...Could you tell me where my room is?",
+                  "CultureInvariantString": "...Не подскажешь, где моя комната?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -12481,7 +12481,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Oh dang, you're right. That thing looks like it's a real doozy. I'll, um, I'll need your name before I can tell you what room you're in, though!",
+          "CultureInvariantString": "О, черт, ты прав. Эта штука выглядит как настоящая головоломка. Но, эм, мне нужно твое имя, прежде чем я смогу сказать, номер твоей комнаты!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -12527,8 +12527,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 2304.0,
-                "Y": 432.0
+                "X": 2304,
+                "Y": 432
               }
             }
           ]
@@ -12640,7 +12640,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "It's Howard. Howard Lotor.",
+                  "CultureInvariantString": "Говард. Говард Лотор.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -12733,7 +12733,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I'm heavy-box-man.",
+                  "CultureInvariantString": "Я — человек с тяжелой коробкой.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -12805,7 +12805,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Ah-ah-ah! Not just yet!",
+          "CultureInvariantString": "А-а-а! Еще не время!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -12851,8 +12851,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 2336.0,
-                "Y": 1152.0
+                "X": 2336,
+                "Y": 1152
               }
             }
           ]
@@ -12964,7 +12964,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Why not?",
+                  "CultureInvariantString": "Почему нет?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -13057,7 +13057,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I'm really tired, man.",
+                  "CultureInvariantString": "Я очень устал, чувак.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -13129,7 +13129,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Wait a minute, that's not on the list... Just jokes! Haha, look at us! Just met, and we're already best friends. ",
+          "CultureInvariantString": "Погоди-ка, этого нет в списке... Шучу! Ха-ха, посмотри на нас! Только познакомились, а уже лучшие друзья.",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -13175,8 +13175,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 2352.0,
-                "Y": 560.0
+                "X": 2352,
+                "Y": 560
               }
             }
           ]
@@ -13288,7 +13288,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "...Fine. My name is Howard.",
+                  "CultureInvariantString": "...Ладно. Меня зовут Говард.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -13381,7 +13381,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "We're not best friends, dude.",
+                  "CultureInvariantString": "Мы не лучшие друзья, чувак.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -13453,7 +13453,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "M-me? No! No, no, it's a riddle. It's not me. I wouldn't- Hm. Alright, so any ideas?",
+          "CultureInvariantString": "Я? Нет! Нет, нет, это загадка. Это не я. Я бы не... Хм. Ладно, есть идеи?",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -13499,8 +13499,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 4176.0,
-                "Y": 1600.0
+                "X": 4176,
+                "Y": 1600
               }
             }
           ]
@@ -13803,7 +13803,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "A thing?",
+                  "CultureInvariantString": "Что-то?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -13896,7 +13896,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "A person?",
+                  "CultureInvariantString": "Кто-то?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -13970,7 +13970,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Uh, well - not yet, anyway! There's still time! We have years to get to know each other! Hah.",
+          "CultureInvariantString": "Эх, ну — пока что нет! Но еще есть время! У нас есть годы, чтобы узнать друг друга! Хах.",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -14016,8 +14016,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 2352.0,
-                "Y": 688.0
+                "X": 2352,
+                "Y": 688
               }
             }
           ]
@@ -14320,7 +14320,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I'm just messing with you. The name's Howard Lotor.",
+                  "CultureInvariantString": "Я просто шучу. Меня зовут Говард Лотор.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -14413,7 +14413,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Let's not get ahead of ourselves.",
+                  "CultureInvariantString": "Давай не будем забегать вперед.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -14487,7 +14487,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Oh, right right - you want to know what your room number is! Well, mister, I'm still gonna need a name! Something better than heavy-mister-boxy, haha. Hah.",
+          "CultureInvariantString": "О, точно-точно — ты хочешь знать номер своей комнаты! Ну, мистер, мне все еще нужно имя! Что-то получше, чем мистер-тяжелая-коробка, ха-ха. Хах.",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -14533,8 +14533,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 2352.0,
-                "Y": 816.0
+                "X": 2352,
+                "Y": 816
               }
             }
           ]
@@ -14646,7 +14646,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Fine. It's Howard Lotor.",
+                  "CultureInvariantString": "Ладно. Говард Лотор.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -14739,7 +14739,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "What's wrong with heavy-box-man?",
+                  "CultureInvariantString": "Что не так с человеком-с-тяжелой-коробкой?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -14811,7 +14811,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Nope!",
+          "CultureInvariantString": "Нет!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -14857,8 +14857,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 3616.0,
-                "Y": 1888.0
+                "X": 3616,
+                "Y": 1888
               }
             }
           ]
@@ -14970,7 +14970,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I give up. What's the answer?",
+                  "CultureInvariantString": "Я сдаюсь. Какой ответ?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -15063,7 +15063,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Let me try again.",
+                  "CultureInvariantString": "Дай мне еще попробовать.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -15135,7 +15135,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "I- That's, uh, that's not actually your name is it? Oh Shepherd, did I already make a fool out of myself? Oh no no no, Wisconsin - not again!",
+          "CultureInvariantString": "Я... Это, эм, это не твое настоящее имя, да? О, Шепард, я уже опозорился? О нет-нет-нет, Висконсин, только не снова!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -15181,8 +15181,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 2368.0,
-                "Y": 992.0
+                "X": 2368,
+                "Y": 992
               }
             }
           ]
@@ -15485,7 +15485,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I'm just messing with you. I'm Howard Lotor.",
+                  "CultureInvariantString": "Я просто шучу. Я Говард Лотор.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -15559,7 +15559,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Well howdy ho, Howard! Hah - sorry, I'm a bit of a jokester. You'll get used to it!",
+          "CultureInvariantString": "Ну, привет, Говард! Хах — извини, я немного шутник. Ты привыкнешь!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -15605,8 +15605,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 1424.0,
-                "Y": 704.0
+                "X": 1424,
+                "Y": 704
               }
             }
           ]
@@ -15909,7 +15909,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I hope not. Where am I staying?",
+                  "CultureInvariantString": "Надеюсь, нет. Где я остановлюсь?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -16002,7 +16002,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "If you say so. I'll see you later, man.",
+                  "CultureInvariantString": "Как скажешь. Увидимся позже, чувак.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -16095,7 +16095,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Sure. Goodbye forever, Wisconsin.",
+                  "CultureInvariantString": "Конечно. Прощай навсегда, Висконсин.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -16169,7 +16169,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Hold on there, friendo! You don't know where your dorm room is yet!",
+          "CultureInvariantString": "Погоди-ка, дружище! Ты еще не знаешь, где твоя комната в общежитии!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -16215,8 +16215,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 1872.0,
-                "Y": 1008.0
+                "X": 1872,
+                "Y": 1008
               }
             }
           ]
@@ -16328,7 +16328,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Oh, right. What's the number?",
+                  "CultureInvariantString": "А, точно. Какой номер?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -16421,7 +16421,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Tell me, then. This box is pretty heavy.",
+                  "CultureInvariantString": "Тогда скажи. Коробка довольно тяжелая.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -16493,7 +16493,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Nope!",
+          "CultureInvariantString": "Нет!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -16539,8 +16539,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 3776.0,
-                "Y": 1888.0
+                "X": 3776,
+                "Y": 1888
               }
             }
           ]
@@ -16652,7 +16652,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I give up. What's the answer?",
+                  "CultureInvariantString": "Я сдаюсь. Какой ответ?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -16745,7 +16745,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Let me try again.",
+                  "CultureInvariantString": "Дай мне еще попробовать.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -16817,7 +16817,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Not so fast, buckaroo! I can't just TELL you the dorm number!",
+          "CultureInvariantString": "Не так быстро, ковбой! Я не могу просто СКАЗАТЬ тебе номер комнаты!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -16863,8 +16863,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 1408.0,
-                "Y": 992.0
+                "X": 1408,
+                "Y": 992
               }
             }
           ]
@@ -16976,7 +16976,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I think you can, actually.",
+                  "CultureInvariantString": "Думаю, на самом деле можешь.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -17069,7 +17069,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Why not?",
+                  "CultureInvariantString": "Почему нет?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -17141,7 +17141,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Yeah! It's a mirror! Good job! Well? What did you think of the riddle? Pretty good, eh?",
+          "CultureInvariantString": "Да! Это зеркало! Отлично! Ну? Как тебе загадка? Неплохо, да?",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -17187,8 +17187,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 3936.0,
-                "Y": 1888.0
+                "X": 3936,
+                "Y": 1888
               }
             }
           ]
@@ -17491,7 +17491,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Pretty easy.",
+                  "CultureInvariantString": "Довольно легко.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -17584,7 +17584,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "It was alright.",
+                  "CultureInvariantString": "Нормально.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -17677,7 +17677,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Can you please tell me where I'm staying now?",
+                  "CultureInvariantString": "Можешь, пожалуйста, сказать, где я остановлюсь?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -17751,7 +17751,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "I keep things running smoothly in the dorms! Like your dorm boss. But a fun boss! I also organize fun activities! You know, like a boss! Haha. Hah.",
+          "CultureInvariantString": "Я поддерживаю порядок в общежитии! Как ваш босс в общежитии. Но веселый босс! Я также организую веселые мероприятия! Ну, знаешь, как босс! Ха-ха. Хах.",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -17797,8 +17797,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 1904.0,
-                "Y": 784.0
+                "X": 1904,
+                "Y": 784
               }
             }
           ]
@@ -17910,7 +17910,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Right. What's my room number?",
+                  "CultureInvariantString": "Ладно. Какой номер моей комнаты?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -18003,7 +18003,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "OK. I'll be running smoothly to my room now, if you don't mind.",
+                  "CultureInvariantString": "ОК. Я сейчас пойду в свою комнату, если не возражаешь.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -18096,7 +18096,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Cool. Can you tell me where my room is, so I can put this box down first?",
+                  "CultureInvariantString": "Круто. Можешь сказать, где моя комната, чтобы я мог поставить эту коробку?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -18168,7 +18168,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "You see, I like to start things off fun with new students!",
+          "CultureInvariantString": "Видишь ли, я люблю начинать с веселья с новыми студентами!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -18214,8 +18214,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 1856.0,
-                "Y": 1168.0
+                "X": 1856,
+                "Y": 1168
               }
             }
           ]
@@ -18327,7 +18327,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "...Which means?",
+                  "CultureInvariantString": "...Что это значит?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -18420,7 +18420,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Listen, this box is really heavy. Can we not have fun right now?",
+                  "CultureInvariantString": "Слушай, коробка очень тяжелая. Может, не будем сейчас веселиться?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -18492,7 +18492,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "No no no! That goes against the rules!",
+          "CultureInvariantString": "Нет-нет-нет! Это против правил!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -18538,8 +18538,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 1488.0,
-                "Y": 1184.0
+                "X": 1488,
+                "Y": 1184
               }
             }
           ]
@@ -18651,7 +18651,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "The rules? What exactly are we doing here, Wisconsin?",
+                  "CultureInvariantString": "Правила? А что мы здесь вообще делаем, Висконсин?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -18744,7 +18744,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Fine. What do you want me to do?",
+                  "CultureInvariantString": "Ладно. Что ты хочешь, чтобы я сделал?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -18816,7 +18816,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "A scavenger hunt!",
+          "CultureInvariantString": "Охоту за сокровищами!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -18862,8 +18862,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 1552.0,
-                "Y": 1376.0
+                "X": 1552,
+                "Y": 1376
               }
             }
           ]
@@ -19166,7 +19166,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "...Why, though?",
+                  "CultureInvariantString": "...Зачем?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -19259,7 +19259,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Sure, Wisconsin. What do I need to find?",
+                  "CultureInvariantString": "Конечно, Висконсин. Что мне нужно найти?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -19352,7 +19352,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I'll pass, Wisconsin.",
+                  "CultureInvariantString": "Я пас, Висконсин.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -19426,7 +19426,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "It'll be quick and super duper fun, Howard! Don't worry about it!",
+          "CultureInvariantString": "Это будет быстро и супер весело, Говард! Не переживай!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -19472,8 +19472,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 2288.0,
-                "Y": 1344.0
+                "X": 2288,
+                "Y": 1344
               }
             }
           ]
@@ -19585,7 +19585,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Just tell me what we're doing, then.",
+                  "CultureInvariantString": "Просто скажи, что мы делаем.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -19678,7 +19678,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "What's all this leading to, Wisconsin?",
+                  "CultureInvariantString": "К чему все это ведет, Висконсин?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -19750,7 +19750,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "A scavenger hunt!",
+          "CultureInvariantString": "Охота за сокровищами!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -19796,8 +19796,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 2080.0,
-                "Y": 1376.0
+                "X": 2080,
+                "Y": 1376
               }
             }
           ]
@@ -20100,7 +20100,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "...Why, though?",
+                  "CultureInvariantString": "...Зачем?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -20193,7 +20193,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Sure, Wisconsin. What do I need to find?",
+                  "CultureInvariantString": "Конечно, Висконсин. Что мне нужно найти?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -20286,7 +20286,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I'll pass, Wisconsin.",
+                  "CultureInvariantString": "Я пас, Висконсин.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -20360,7 +20360,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Yay! Alright, then: I've hidden two things somewhere in this hallway. One of them's blue, and the other is new!",
+          "CultureInvariantString": "Ура! Ладно, тогда: я спрятал две вещи где-то в этом коридоре. Одна из них синяя, а другая — новая!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -20406,8 +20406,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 1904.0,
-                "Y": 1968.0
+                "X": 1904,
+                "Y": 1968
               }
             }
           ]
@@ -21070,7 +21070,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Blue and new? No other clues?",
+                  "CultureInvariantString": "Синяя и новая? Больше никаких подсказок?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -21163,7 +21163,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Something new and something blue, coming right up.",
+                  "CultureInvariantString": "Что-то новое и что-то синее, сейчас найду.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -21238,7 +21238,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "It's fun! It lets us get to know each other and have fun on campus! You know, like friends!",
+          "CultureInvariantString": "Это весело! Это позволяет нам узнать друг друга и повеселиться в кампусе! Ну, знаешь, как друзья!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -21284,8 +21284,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 1744.0,
-                "Y": 1584.0
+                "X": 1744,
+                "Y": 1584
               }
             }
           ]
@@ -21397,7 +21397,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Alright, sure.",
+                  "CultureInvariantString": "Ладно, хорошо.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -21490,7 +21490,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I'll pass.",
+                  "CultureInvariantString": "Я пас.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -21562,7 +21562,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Pass? But it's so much fun! Scavenging! Hunting! With friends! Please do my little scavenger hunt!",
+          "CultureInvariantString": "Пас? Но это так весело! Искать! Охотиться! С друзьями! Пожалуйста, сделай мою маленькую охоту за сокровищами!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -21608,8 +21608,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 2192.0,
-                "Y": 1552.0
+                "X": 2192,
+                "Y": 1552
               }
             }
           ]
@@ -21912,7 +21912,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "...Is it really that important to you?",
+                  "CultureInvariantString": "...Это правда так важно для тебя?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -22005,7 +22005,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Nope. Just tell me the number, Wisconsin.",
+                  "CultureInvariantString": "Нет. Просто скажи номер, Висконсин.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -22098,7 +22098,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Can we do something else?",
+                  "CultureInvariantString": "Можем сделать что-то другое?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -22191,7 +22191,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Maybe some other time, alright?",
+                  "CultureInvariantString": "Может, в другой раз, ладно?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -22265,7 +22265,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Yes. Yes, Howard. Please.",
+          "CultureInvariantString": "Да. Да, Говард. Пожалуйста.",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -22311,8 +22311,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 2096.0,
-                "Y": 1744.0
+                "X": 2096,
+                "Y": 1744
               }
             }
           ]
@@ -22424,7 +22424,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Fine. Go on. Tell me about it.",
+                  "CultureInvariantString": "Ладно. Давай. Расскажи мне об этом.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -22517,7 +22517,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I'm just not feeling it today. Sorry.",
+                  "CultureInvariantString": "Я просто не в настроении сегодня. Извини.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -22589,7 +22589,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "But... I just want you to have a good time! Listen - we can do something else! How about a riddle?",
+          "CultureInvariantString": "Но... Я просто хочу, чтобы ты хорошо провел время! Слушай — мы можем сделать что-то другое! Как насчет загадки?",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -22635,8 +22635,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 2704.0,
-                "Y": 1856.0
+                "X": 2704,
+                "Y": 1856
               }
             }
           ]
@@ -22939,7 +22939,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Nope. Room number. Gimme.",
+                  "CultureInvariantString": "Нет. Номер комнаты. Давай.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -23032,7 +23032,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Would that make you happy?",
+                  "CultureInvariantString": "Это сделает тебя счастливым?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -23106,7 +23106,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Some other time? But what about your reception! What about your first impression of university!",
+          "CultureInvariantString": "В другой раз? Но как насчет твоего приема? Как насчет первого впечатления об университете!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -23152,8 +23152,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 3136.0,
-                "Y": 1840.0
+                "X": 3136,
+                "Y": 1840
               }
             }
           ]
@@ -23456,7 +23456,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "It's okay, Wisconsin. I just don't care that much.",
+                  "CultureInvariantString": "Все в порядке, Висконсин. Мне просто все равно.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -23549,7 +23549,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Come on, dude. The number.",
+                  "CultureInvariantString": "Давай, чувак. Номер.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -23623,7 +23623,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Aw. Alright. Okay. I guess. It's 304. Down the hall.",
+          "CultureInvariantString": "Ох. Ладно. Хорошо. Думаю, это 304. В конце коридора.",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -23669,8 +23669,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 2688.0,
-                "Y": 2064.0
+                "X": 2688,
+                "Y": 2064
               }
             }
           ]
@@ -24873,7 +24873,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Great! See you, Wisconsin.",
+                  "CultureInvariantString": "Отлично! Увидимся, Висконсин.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -24966,7 +24966,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Thanks. No hard feelings, right?",
+                  "CultureInvariantString": "Спасибо. Без обид, да?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -25042,7 +25042,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Uh... uh-huh..",
+          "CultureInvariantString": "Эм... ага...",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -25088,8 +25088,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 3312.0,
-                "Y": 2016.0
+                "X": 3312,
+                "Y": 2016
               }
             }
           ]
@@ -25201,7 +25201,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "...Maybe some other time, then. Alright?",
+                  "CultureInvariantString": "...Может, в другой раз, ладно?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -25294,7 +25294,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Fine. Give me the riddle.",
+                  "CultureInvariantString": "Ладно. Дай мне загадку.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -25366,7 +25366,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Nah!",
+          "CultureInvariantString": "Неа!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -25412,8 +25412,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 4272.0,
-                "Y": 1872.0
+                "X": 4272,
+                "Y": 1872
               }
             }
           ]
@@ -25525,7 +25525,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I give up. What's the answer?",
+                  "CultureInvariantString": "Я сдаюсь. Какой ответ?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -25618,7 +25618,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Let me try again.",
+                  "CultureInvariantString": "Дай мне еще попробовать.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -25690,7 +25690,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "No, no. No hard feelings. None at all. I'll, um, I'll see you around. Thanks for playing, Howard.",
+          "CultureInvariantString": "Нет, нет. Без обид. Совсем нет. Я, эм, увидимся. Спасибо за игру, Говард.",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -25736,8 +25736,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 2960.0,
-                "Y": 2208.0
+                "X": 2960,
+                "Y": 2208
               }
             }
           ]
@@ -26760,7 +26760,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "See ya, Wisconsin.",
+                  "CultureInvariantString": "Увидимся, Висконсин.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -26853,7 +26853,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "You got it.",
+                  "CultureInvariantString": "Понял.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -26929,7 +26929,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Alright! A riddle it is, then! Are you ready for it? \"If you give me a smile, I'll give you one back - but if you drop me and go, I'll instantly crack. What am I?\"",
+          "CultureInvariantString": "Ладно! Тогда загадка! Готов? \"Если ты улыбнешься мне, я улыбнусь в ответ — но если ты уронишь меня и уйдешь, я мгновенно разобьюсь. Что я?\"",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -26975,8 +26975,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 3728.0,
-                "Y": 1520.0
+                "X": 3728,
+                "Y": 1520
               }
             }
           ]
@@ -27279,7 +27279,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Crack? Something fragile?",
+                  "CultureInvariantString": "Разобьюсь? Что-то хрупкое?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -27372,7 +27372,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "...Is it you, Wisconsin?",
+                  "CultureInvariantString": "...Это ты, Висконсин?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -27465,7 +27465,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "If it can smile, it must be a person, right?",
+                  "CultureInvariantString": "Если оно может улыбаться, это должен быть человек, да?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -27539,7 +27539,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "I do have a riddle prepared too, if that sounds better?",
+          "CultureInvariantString": "У меня тоже есть загадка, если хочешь?",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -27585,8 +27585,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 2992.0,
-                "Y": 1440.0
+                "X": 2992,
+                "Y": 1440
               }
             }
           ]
@@ -27889,7 +27889,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Oof. Hard pass. Sorry, Wisconsin.",
+                  "CultureInvariantString": "Уф. Твердый пас. Извини, Висконсин.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -27982,7 +27982,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Alright, give me the riddle.",
+                  "CultureInvariantString": "Ладно, давай загадку.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -28056,7 +28056,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Howard! That's awful! No, it's not!",
+          "CultureInvariantString": "Говард! Это ужасно! Нет, это не так!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -28102,8 +28102,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 4624.0,
-                "Y": 1760.0
+                "X": 4624,
+                "Y": 1760
               }
             }
           ]
@@ -28406,7 +28406,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I give up. What's the answer?",
+                  "CultureInvariantString": "Я сдаюсь. Какой ответ?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -28499,7 +28499,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Alright, let me try again.",
+                  "CultureInvariantString": "Ладно, дай мне еще попробовать.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -28573,7 +28573,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Nope!",
+          "CultureInvariantString": "Нет!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -28619,8 +28619,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 4848.0,
-                "Y": 1760.0
+                "X": 4848,
+                "Y": 1760
               }
             }
           ]
@@ -28732,7 +28732,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I give up. What's the answer?",
+                  "CultureInvariantString": "Я сдаюсь. Какой ответ?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -28825,7 +28825,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Alright, let me try again.",
+                  "CultureInvariantString": "Ладно, дай мне еще попробовать.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -28897,7 +28897,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "I don't- No. No, not that. ",
+          "CultureInvariantString": "Я не... Нет. Нет, не это.",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -28943,8 +28943,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 4992.0,
-                "Y": 1760.0
+                "X": 4992,
+                "Y": 1760
               }
             }
           ]
@@ -29247,7 +29247,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I give up. What's the answer?",
+                  "CultureInvariantString": "Я сдаюсь. Какой ответ?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -29340,7 +29340,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Alright, let me try again.",
+                  "CultureInvariantString": "Ладно, дай мне еще попробовать.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -29414,7 +29414,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "I'll get you a tougher one next time! Since you solved the riddle, I'll also tell you which room you're staying in! It's 304, all the way down the hall!",
+          "CultureInvariantString": "В следующий раз я дам тебе что-то посложнее! Раз ты отгадал загадку, я также скажу, в какой комнате ты остановишься! Это 304, в конце коридора!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -29460,8 +29460,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 4176.0,
-                "Y": 2288.0
+                "X": 4176,
+                "Y": 2288
               }
             }
           ]
@@ -29944,7 +29944,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Finally. See ya.",
+                  "CultureInvariantString": "Наконец-то. Увидимся.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -30037,7 +30037,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Sweet. Thanks, Wisconsin.",
+                  "CultureInvariantString": "Круто. Спасибо, Висконсин.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -30112,7 +30112,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "I'm so glad you liked it! Oh, and before I forget - you're staying in room 304! It's all the way down the hall!",
+          "CultureInvariantString": "Я так рад, что тебе понравилось! О, и прежде чем я забуду — ты остановишься в комнате 304! Это в конце коридора!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -30158,8 +30158,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 4496.0,
-                "Y": 2288.0
+                "X": 4496,
+                "Y": 2288
               }
             }
           ]
@@ -30642,7 +30642,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Finally. Later, man.",
+                  "CultureInvariantString": "Наконец-то. Пока, чувак.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -30735,7 +30735,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Great. See you, Wisconsin.",
+                  "CultureInvariantString": "Отлично. Увидимся, Висконсин.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -30810,7 +30810,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Oh, right! You're staying in 304 - it's all the way down the hall!",
+          "CultureInvariantString": "О, точно! Ты остановишься в 304 — это в конце коридора!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -30856,8 +30856,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 4800.0,
-                "Y": 2288.0
+                "X": 4800,
+                "Y": 2288
               }
             }
           ]
@@ -31340,7 +31340,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Down the hall. Got it.",
+                  "CultureInvariantString": "В конце коридора. Понял.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -31433,7 +31433,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Perfect. Thanks, Wisconsin.",
+                  "CultureInvariantString": "Отлично. Спасибо, Висконсин.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -31508,7 +31508,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "No problem! Oh, and your roommate is already there, so don't be surprised!",
+          "CultureInvariantString": "Не за что! О, и твой сосед уже там, так что не удивляйся!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -31554,8 +31554,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 4704.0,
-                "Y": 2448.0
+                "X": 4704,
+                "Y": 2448
               }
             }
           ]
@@ -31667,7 +31667,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Roommate?",
+                  "CultureInvariantString": "Сосед?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -31760,7 +31760,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "OK.",
+                  "CultureInvariantString": "ОК.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -31832,7 +31832,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "See you around! Oh, and your roommate is already there, so don't be surprised! ",
+          "CultureInvariantString": "Увидимся! О, и твой сосед уже там, так что не удивляйся!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -31878,8 +31878,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 4272.0,
-                "Y": 2448.0
+                "X": 4272,
+                "Y": 2448
               }
             }
           ]
@@ -31991,7 +31991,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "My roommate?",
+                  "CultureInvariantString": "Мой сосед?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -32084,7 +32084,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Sure thing.",
+                  "CultureInvariantString": "Конечно.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -32156,7 +32156,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Yeah! I'm sure you'll get along great, he's a- uh. You'll get along great!",
+          "CultureInvariantString": "Да! Я уверен, что вы поладите, он... эм. Вы поладите!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -32202,8 +32202,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 4320.0,
-                "Y": 2592.0
+                "X": 4320,
+                "Y": 2592
               }
             }
           ]
@@ -32686,7 +32686,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "(Leave)",
+                  "CultureInvariantString": "(Уйти)",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -32758,7 +32758,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Byeee! See you around! Come see me whenever! I'll be here! I'm always here!",
+          "CultureInvariantString": "Покааа! Увидимся! Заходи когда угодно! Я буду здесь! Я всегда здесь!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -32804,8 +32804,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 4688.0,
-                "Y": 2592.0
+                "X": 4688,
+                "Y": 2592
               }
             }
           ]
@@ -33288,7 +33288,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "(Leave)",
+                  "CultureInvariantString": "(Уйти)",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -33360,7 +33360,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "It's a mirror! Pretty clever, huh?",
+          "CultureInvariantString": "Это зеркало! Довольно умно, да?",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -33406,8 +33406,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 3760.0,
-                "Y": 2208.0
+                "X": 3760,
+                "Y": 2208
               }
             }
           ]
@@ -33710,7 +33710,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "It's alright.",
+                  "CultureInvariantString": "Нормально.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -33803,7 +33803,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Yeah, that's a pretty good one.",
+                  "CultureInvariantString": "Да, неплохо.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -33896,7 +33896,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Room number, man. Come on.",
+                  "CultureInvariantString": "Номер комнаты, чувак. Давай.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -33970,7 +33970,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "...Are you back to complain about your reception? I'm sorry! I failed! Please don't be mad at me!",
+          "CultureInvariantString": "...Ты вернулся, чтобы пожаловаться на прием? Извини! Я облажался! Пожалуйста, не злись на меня!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -34016,8 +34016,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -2336.0,
-                "Y": 240.0
+                "X": -2336,
+                "Y": 240
               }
             }
           ]
@@ -34504,7 +34504,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "It's fine, Wisconsin. See you around.",
+                  "CultureInvariantString": "Все в порядке, Висконсин. Увидимся.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -34597,7 +34597,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "[Shake your head in disappointment]",
+                  "CultureInvariantString": "[Покачай головой с разочарованием]",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -34690,7 +34690,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "[Leave]",
+                  "CultureInvariantString": "[Уйти]",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -34764,7 +34764,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Sure! I'll give you a hint - it's a thing!",
+          "CultureInvariantString": "Конечно! Я дам тебе подсказку — это что-то!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -34810,8 +34810,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 4944.0,
-                "Y": 1888.0
+                "X": 4944,
+                "Y": 1888
               }
             }
           ]
@@ -35114,7 +35114,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "A camera?",
+                  "CultureInvariantString": "Камера?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -35207,7 +35207,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "A framed photograph?",
+                  "CultureInvariantString": "Фотография в рамке?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -35300,7 +35300,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "A mirror?",
+                  "CultureInvariantString": "Зеркало?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -35393,7 +35393,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "A window into someone's house?",
+                  "CultureInvariantString": "Окно в чей-то дом?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -35467,7 +35467,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Go ahead!",
+          "CultureInvariantString": "Давай!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -35513,8 +35513,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 3904.0,
-                "Y": 2032.0
+                "X": 3904,
+                "Y": 2032
               }
             }
           ]
@@ -35626,7 +35626,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "A camera?",
+                  "CultureInvariantString": "Камера?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -35719,7 +35719,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "A framed photograph?",
+                  "CultureInvariantString": "Фотография в рамке?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -35812,7 +35812,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "A mirror?",
+                  "CultureInvariantString": "Зеркало?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -35905,7 +35905,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "A window into someone's house?",
+                  "CultureInvariantString": "Окно в чей-то дом?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -35977,7 +35977,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "It doesn't have to be the things I've hidden! You can be creative too!",
+          "CultureInvariantString": "Это не обязательно должны быть те вещи, которые я спрятал! Ты тоже можешь проявить творчество!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -36023,8 +36023,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 1520.0,
-                "Y": 2032.0
+                "X": 1520,
+                "Y": 2032
               }
             }
           ]
@@ -36136,7 +36136,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Alright, let's give this a shot.",
+                  "CultureInvariantString": "Ладно, давай попробуем.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -36208,7 +36208,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Yay! I saw you find them, actually, but I didn't want to spoil your fun.",
+          "CultureInvariantString": "Ура! Я видел, как ты нашел их, но не хотел портить тебе удовольствие.",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -36254,8 +36254,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 144.0,
-                "Y": 736.0
+                "X": 144,
+                "Y": 736
               }
             }
           ]
@@ -36915,7 +36915,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Yeah, it was super fun. Are we done now?",
+                  "CultureInvariantString": "Да, это было супер весело. Мы закончили?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -37008,7 +37008,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Good on you for organizing fun activities, Wisconsin.",
+                  "CultureInvariantString": "Молодец, что организуешь веселые мероприятия, Висконсин.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -37101,7 +37101,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I gotta be honest, Wisconsin. I hated all of this.",
+                  "CultureInvariantString": "Честно говоря, Висконсин, мне все это не понравилось.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -37175,7 +37175,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "You... you give up? Already? But you just got started!",
+          "CultureInvariantString": "Ты... ты сдаешься? Уже? Но ты только начал!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -37221,8 +37221,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 880.0,
-                "Y": 768.0
+                "X": 880,
+                "Y": 768
               }
             }
           ]
@@ -37525,7 +37525,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Fine. I'll keep going.",
+                  "CultureInvariantString": "Ладно. Я продолжу.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -37618,7 +37618,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Yeah, but I'm tired. Just tell me which room I'm in, man.",
+                  "CultureInvariantString": "Да, но я устал. Просто скажи, в какой я комнате, чувак.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -37692,7 +37692,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Good luck! Have fun! Please!",
+          "CultureInvariantString": "Удачи! Повеселись! Пожалуйста!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -37738,8 +37738,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 800.0,
-                "Y": 912.0
+                "X": 800,
+                "Y": 912
               }
             }
           ]
@@ -37851,7 +37851,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "[Leave]",
+                  "CultureInvariantString": "[Уйти]",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -37923,7 +37923,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Howdy, partner! Did you have a chance to check out your room yet?",
+          "CultureInvariantString": "Привет, партнер! Ты уже заглянул в свою комнату?",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -37969,8 +37969,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -1584.0,
-                "Y": 272.0
+                "X": -1584,
+                "Y": 272
               }
             }
           ]
@@ -38630,7 +38630,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I did, and I met Larry. ",
+                  "CultureInvariantString": "Да, и я встретил Ларри.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -38896,7 +38896,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Not yet.",
+                  "CultureInvariantString": "Еще нет.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -38989,7 +38989,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I gotta go. See ya.",
+                  "CultureInvariantString": "Мне пора. Увидимся.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -39063,7 +39063,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "For now! You'll be staying in 304 - it's all the way down the hall.",
+          "CultureInvariantString": "Пока что! Ты остановишься в 304 — это в конце коридора.",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -39109,8 +39109,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -32.0,
-                "Y": 880.0
+                "X": -32,
+                "Y": 880
               }
             }
           ]
@@ -39413,7 +39413,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Finally. I'll see you later, man.",
+                  "CultureInvariantString": "Наконец-то. Увидимся позже, чувак.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -39487,7 +39487,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Aw shucks, thanks Howard! Now, I bet you want to get to your room, right? It's the one at the end of the hall, 304!",
+          "CultureInvariantString": "О, спасибо, Говард! Теперь, я уверен, ты хочешь попасть в свою комнату, да? Это та, что в конце коридора, 304!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -39534,7 +39534,7 @@
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
                 "X": "+0",
-                "Y": 1008.0
+                "Y": 1008
               }
             }
           ]
@@ -39837,7 +39837,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Finally. I'll see you later, man.",
+                  "CultureInvariantString": "Наконец-то. Увидимся позже, чувак.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -39911,7 +39911,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "You- Ah, hah. Haha. That was a joke, right? You're just being a goofy goofer. Classic Howard! See the room all the way down the hall? That's where you're staying! 304!",
+          "CultureInvariantString": "Ты... Ах, ха-ха. Это была шутка, да? Ты просто шутишь. Классический Говард! Видишь комнату в конце коридора? Там ты остановишься! 304!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -39957,8 +39957,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 368.0,
-                "Y": 864.0
+                "X": 368,
+                "Y": 864
               }
             }
           ]
@@ -40261,7 +40261,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Finally. I'll see you later, man.",
+                  "CultureInvariantString": "Наконец-то. Увидимся позже, чувак.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -40335,7 +40335,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Sounds good! Oh, and your roommate is already there, so don't be surprised if you see a stranger in your room, haha!",
+          "CultureInvariantString": "Отлично! О, и твой сосед уже там, так что не удивляйся, если увидишь незнакомца в своей комнате, ха-ха!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -40381,8 +40381,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 352.0,
-                "Y": 1040.0
+                "X": 352,
+                "Y": 1040
               }
             }
           ]
@@ -40865,7 +40865,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "[Leave]",
+                  "CultureInvariantString": "[Уйти]",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -40937,7 +40937,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "That's great! I'm sure we'll be best friends, all three of us! Right?",
+          "CultureInvariantString": "Отлично! Я уверен, мы будем лучшими друзьями, все трое! Да?",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -40983,8 +40983,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -1840.0,
-                "Y": 432.0
+                "X": -1840,
+                "Y": 432
               }
             }
           ]
@@ -41096,7 +41096,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "You got it, man.",
+                  "CultureInvariantString": "Понял, чувак.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -41189,7 +41189,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "[Leave]",
+                  "CultureInvariantString": "[Уйти]",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -41261,7 +41261,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Take your time! See you around, Howard!",
+          "CultureInvariantString": "Не спеши! Увидимся, Говард!",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -41307,8 +41307,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -1536.0,
-                "Y": 480.0
+                "X": -1536,
+                "Y": 480
               }
             }
           ]
@@ -41420,7 +41420,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "[Leave]",
+                  "CultureInvariantString": "[Уйти]",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -41492,7 +41492,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Hi, Howard! Say, you sure you don't want to give the scavenger hunt another go?",
+          "CultureInvariantString": "Привет, Говард! Скажи, ты уверен, что не хочешь попробовать охоту за сокровищами еще раз?",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -41538,8 +41538,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": -864.0,
-                "Y": 256.0
+                "X": -864,
+                "Y": 256
               }
             }
           ]
@@ -42026,7 +42026,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Do people usually like the scavenger hunts?",
+                  "CultureInvariantString": "Людям обычно нравятся такие охоты?",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -42119,7 +42119,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I'm good, man. See you later.",
+                  "CultureInvariantString": "Я в порядке, чувак. Увидимся позже.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -42193,7 +42193,7 @@
           "Flags": 0,
           "HistoryType": "Base",
           "Namespace": "",
-          "CultureInvariantString": "Howdy, Howard! How's the scavenger hunt going? Pretty fun, huh? Did you find both something blue and something new?",
+          "CultureInvariantString": "Привет, Говард! Как идет охота за сокровищами? Весело, да? Ты нашел что-то синее и что-то новое?",
           "SourceFmt": null,
           "Arguments": null,
           "ArgumentsData": null,
@@ -42239,8 +42239,8 @@
               "PropertyTagExtensions": "NoExtension",
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector2D, UAssetAPI",
-                "X": 144.0,
-                "Y": 576.0
+                "X": 144,
+                "Y": 576
               }
             }
           ]
@@ -42536,7 +42536,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "I did.",
+                  "CultureInvariantString": "Нашел.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -42629,7 +42629,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Still working on it. I'll be right back.",
+                  "CultureInvariantString": "Еще работаю над этим. Скоро вернусь.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
@@ -42722,7 +42722,7 @@
                   "Flags": 0,
                   "HistoryType": "Base",
                   "Namespace": "",
-                  "CultureInvariantString": "Not really. I give up.",
+                  "CultureInvariantString": "Не особо. Я сдаюсь.",
                   "SourceFmt": null,
                   "Arguments": null,
                   "ArgumentsData": null,
